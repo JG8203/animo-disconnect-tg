@@ -1,0 +1,689 @@
+{
+  "8058290031": {
+    "id_no": "12209082",
+    "courses": [
+      "STCLOUD",
+      "CSOPESY",
+      "CSC615M",
+      "ACYITM2"
+    ],
+    "sections": {
+      "LCFILIB": [
+        541
+      ],
+      "GETEAMS": [
+        656,
+        658
+      ],
+      "SAS3000": [
+        4498
+      ],
+      "LCLSTRI": [
+        4091
+      ]
+    },
+    "previous_data": {
+      "STCLOUD": [
+        {
+          "classNbr": 3348,
+          "course": "STCLOUD",
+          "section": "S13",
+          "enrlCap": 43,
+          "enrolled": 28,
+          "remarks": "HYB",
+          "meetings": [
+            {
+              "day": "M",
+              "time": "1245 - 1415",
+              "room": null
+            },
+            {
+              "day": "H",
+              "time": "1100 - 1230",
+              "room": "GK304B"
+            }
+          ],
+          "instructor": "FLORES, FRITZ KEVIN SALVADOR"
+        },
+        {
+          "classNbr": 3347,
+          "course": "STCLOUD",
+          "section": "S14",
+          "enrlCap": 43,
+          "enrolled": 43,
+          "remarks": "HYB",
+          "meetings": [
+            {
+              "day": "M",
+              "time": "1245 - 1415",
+              "room": null
+            },
+            {
+              "day": "H",
+              "time": "1245 - 1415",
+              "room": "GK304B"
+            }
+          ],
+          "instructor": "FLORES, FRITZ KEVIN SALVADOR"
+        },
+        {
+          "classNbr": 3346,
+          "course": "STCLOUD",
+          "section": "S15",
+          "enrlCap": 43,
+          "enrolled": 12,
+          "remarks": "HYB",
+          "meetings": [
+            {
+              "day": "M",
+              "time": "1615 - 1745",
+              "room": null
+            },
+            {
+              "day": "H",
+              "time": "1615 - 1745",
+              "room": "GK304B"
+            }
+          ],
+          "instructor": "FLORES, FRITZ KEVIN SALVADOR"
+        },
+        {
+          "classNbr": 3345,
+          "course": "STCLOUD",
+          "section": "S16",
+          "enrlCap": 43,
+          "enrolled": 23,
+          "remarks": "HYB",
+          "meetings": [
+            {
+              "day": "T",
+              "time": "1245 - 1415",
+              "room": null
+            },
+            {
+              "day": "F",
+              "time": "1100 - 1230",
+              "room": "GK304B"
+            }
+          ],
+          "instructor": "FLORES, FRITZ KEVIN SALVADOR"
+        },
+        {
+          "classNbr": 3344,
+          "course": "STCLOUD",
+          "section": "S17",
+          "enrlCap": 43,
+          "enrolled": 43,
+          "remarks": "HYB",
+          "meetings": [
+            {
+              "day": "T",
+              "time": "1245 - 1415",
+              "room": null
+            },
+            {
+              "day": "F",
+              "time": "1245 - 1415",
+              "room": "GK304B"
+            }
+          ],
+          "instructor": "FLORES, FRITZ KEVIN SALVADOR"
+        },
+        {
+          "classNbr": 6294,
+          "course": "STCLOUD",
+          "section": "XX22",
+          "enrlCap": 24,
+          "enrolled": 8,
+          "remarks": "HYB",
+          "meetings": [
+            {
+              "day": "M",
+              "time": "0915 - 1045",
+              "room": "UH204"
+            },
+            {
+              "day": "H",
+              "time": "0915 - 1045",
+              "room": null
+            }
+          ],
+          "instructor": "PULUMBARIT, ARIS M."
+        }
+      ],
+      "CSOPESY": [
+        {
+          "classNbr": 100,
+          "course": "CSOPESY",
+          "section": "S13",
+          "enrlCap": 43,
+          "enrolled": 29,
+          "remarks": "HYB",
+          "meetings": [
+            {
+              "day": "T",
+              "time": "0915 - 1045",
+              "room": null
+            },
+            {
+              "day": "F",
+              "time": "0915 - 1045",
+              "room": "GK201"
+            }
+          ],
+          "instructor": "MANTUA, JONATHAN CADELIÑA"
+        },
+        {
+          "classNbr": 101,
+          "course": "CSOPESY",
+          "section": "S14",
+          "enrlCap": 43,
+          "enrolled": 42,
+          "remarks": "HYB",
+          "meetings": [
+            {
+              "day": "T",
+              "time": "0915 - 1045",
+              "room": null
+            },
+            {
+              "day": "F",
+              "time": "1100 - 1230",
+              "room": "GK201"
+            }
+          ],
+          "instructor": "MANTUA, JONATHAN CADELIÑA"
+        },
+        {
+          "classNbr": 103,
+          "course": "CSOPESY",
+          "section": "S15",
+          "enrlCap": 43,
+          "enrolled": 4,
+          "remarks": "HYB",
+          "meetings": [
+            {
+              "day": "W",
+              "time": "0915 - 1045",
+              "room": null
+            },
+            {
+              "day": "S",
+              "time": "0915 - 1045",
+              "room": "GK202"
+            }
+          ],
+          "instructor": "MANTUA, JONATHAN CADELIÑA"
+        },
+        {
+          "classNbr": 733,
+          "course": "CSOPESY",
+          "section": "S16",
+          "enrlCap": 43,
+          "enrolled": 9,
+          "remarks": "HYB",
+          "meetings": [
+            {
+              "day": "M",
+              "time": "1430 - 1600",
+              "room": null
+            },
+            {
+              "day": "H",
+              "time": "1430 - 1600",
+              "room": "GK204"
+            }
+          ],
+          "instructor": "AGUILAR, EMERICO HABACON"
+        },
+        {
+          "classNbr": 785,
+          "course": "CSOPESY",
+          "section": "S17",
+          "enrlCap": 43,
+          "enrolled": 1,
+          "remarks": "HYB",
+          "meetings": [
+            {
+              "day": "M",
+              "time": "1430 - 1600",
+              "room": null
+            },
+            {
+              "day": "H",
+              "time": "1615 - 1745",
+              "room": "GK204"
+            }
+          ],
+          "instructor": "AGUILAR, EMERICO HABACON"
+        },
+        {
+          "classNbr": 786,
+          "course": "CSOPESY",
+          "section": "S18",
+          "enrlCap": 43,
+          "enrolled": 3,
+          "remarks": "HYB",
+          "meetings": [
+            {
+              "day": "T",
+              "time": "1430 - 1600",
+              "room": null
+            },
+            {
+              "day": "F",
+              "time": "1430 - 1600",
+              "room": "AG1109"
+            }
+          ],
+          "instructor": "AGUILAR, EMERICO HABACON"
+        },
+        {
+          "classNbr": 787,
+          "course": "CSOPESY",
+          "section": "S19",
+          "enrlCap": 43,
+          "enrolled": 43,
+          "remarks": "HYB",
+          "meetings": [
+            {
+              "day": "W",
+              "time": "0915 - 1045",
+              "room": null
+            },
+            {
+              "day": "S",
+              "time": "0915 - 1045",
+              "room": "SJ210"
+            }
+          ],
+          "instructor": "DE LA CRUZ, REN TRISTAN A."
+        },
+        {
+          "classNbr": 788,
+          "course": "CSOPESY",
+          "section": "S20",
+          "enrlCap": 43,
+          "enrolled": 43,
+          "remarks": "HYB",
+          "meetings": [
+            {
+              "day": "W",
+              "time": "0915 - 1045",
+              "room": null
+            },
+            {
+              "day": "S",
+              "time": "1100 - 1230",
+              "room": "SJ210"
+            }
+          ],
+          "instructor": "DE LA CRUZ, REN TRISTAN A."
+        },
+        {
+          "classNbr": 789,
+          "course": "CSOPESY",
+          "section": "S21",
+          "enrlCap": 43,
+          "enrolled": 0,
+          "remarks": "HYB",
+          "meetings": [
+            {
+              "day": "T",
+              "time": "1430 - 1600",
+              "room": null
+            },
+            {
+              "day": "F",
+              "time": "1615 - 1745",
+              "room": "AG1109"
+            }
+          ],
+          "instructor": "AGUILAR, EMERICO HABACON"
+        },
+        {
+          "classNbr": 5011,
+          "course": "CSOPESY",
+          "section": "S22",
+          "enrlCap": 43,
+          "enrolled": 2,
+          "remarks": "HYB",
+          "meetings": [
+            {
+              "day": "W",
+              "time": "0730 - 0900",
+              "room": null
+            },
+            {
+              "day": "S",
+              "time": "0730 - 0900",
+              "room": "GK202"
+            }
+          ],
+          "instructor": "MANTUA, JONATHAN CADELIÑA"
+        },
+        {
+          "classNbr": 6252,
+          "course": "CSOPESY",
+          "section": "XC23",
+          "enrlCap": 40,
+          "enrolled": 11,
+          "remarks": "HYBRID/T-UH303",
+          "meetings": [
+            {
+              "day": "T",
+              "time": "1615 - 1745",
+              "room": null
+            },
+            {
+              "day": "F",
+              "time": "1615 - 1745",
+              "room": null
+            }
+          ],
+          "instructor": "DEL GALLEGO, NEIL PATRICK ABARRO"
+        }
+      ],
+      "CSC615M": [
+        {
+          "classNbr": 5603,
+          "course": "CSC615M",
+          "section": "G01",
+          "enrlCap": 25,
+          "enrolled": 0,
+          "remarks": "FOL",
+          "meetings": [
+            {
+              "day": "M",
+              "time": "1800 - 2100",
+              "room": null
+            }
+          ],
+          "instructor": "OCO, NATHANIEL A."
+        }
+      ],
+      "ACYITM2": [
+        {
+          "classNbr": 2524,
+          "course": "ACYITM2",
+          "section": "K31",
+          "enrlCap": 32,
+          "enrolled": 32,
+          "remarks": "HYB",
+          "meetings": [
+            {
+              "day": "M",
+              "time": "1800 - 2115",
+              "room": "VL406"
+            },
+            {
+              "day": "H",
+              "time": "1800 - 2115",
+              "room": null
+            }
+          ],
+          "instructor": "RETARDO, JOHN CHRISTOPHER RODIL"
+        },
+        {
+          "classNbr": 2523,
+          "course": "ACYITM2",
+          "section": "K32",
+          "enrlCap": 32,
+          "enrolled": 10,
+          "remarks": "HYB",
+          "meetings": [
+            {
+              "day": "M",
+              "time": "0730 - 1045",
+              "room": "VL306"
+            },
+            {
+              "day": "H",
+              "time": "0730 - 1045",
+              "room": null
+            }
+          ],
+          "instructor": "MAICO, ANTONIO JR. VALIDA"
+        },
+        {
+          "classNbr": 2521,
+          "course": "ACYITM2",
+          "section": "K34",
+          "enrlCap": 32,
+          "enrolled": 30,
+          "remarks": "HYB",
+          "meetings": [
+            {
+              "day": "M",
+              "time": "1800 - 2115",
+              "room": "AG911"
+            },
+            {
+              "day": "H",
+              "time": "1800 - 2115",
+              "room": null
+            }
+          ]
+        }
+      ],
+      "LCFILIB:sections": [
+        {
+          "classNbr": 541,
+          "course": "LCFILIB",
+          "section": "Y06",
+          "enrlCap": 30,
+          "enrolled": 30,
+          "remarks": "FOL",
+          "meetings": [
+            {
+              "day": "M",
+              "time": "1615 - 1745",
+              "room": null
+            },
+            {
+              "day": "H",
+              "time": "1615 - 1745",
+              "room": null
+            }
+          ],
+          "instructor": "CONCHA, CHRISTOPHER BRYAN AQUINO"
+        }
+      ],
+      "GETEAMS:sections": [
+        {
+          "classNbr": 656,
+          "course": "GETEAMS",
+          "section": "YY11",
+          "enrlCap": 45,
+          "enrolled": 14,
+          "remarks": "PIP /WABOBA",
+          "meetings": [
+            {
+              "day": "W",
+              "time": "0800 - 1000",
+              "room": null
+            }
+          ],
+          "instructor": "MARIANO, JANET SANTOS"
+        }
+      ],
+      "SAS3000:sections": [
+        {
+          "classNbr": 4498,
+          "course": "SAS3000",
+          "section": "S13",
+          "enrlCap": 43,
+          "enrolled": 8,
+          "remarks": "",
+          "meetings": [
+            {
+              "day": "",
+              "time": "0000 - 0000",
+              "room": null
+            }
+          ]
+        }
+      ],
+      "LCLSTRI:sections": [
+        {
+          "classNbr": 4091,
+          "course": "LCLSTRI",
+          "section": "Y07",
+          "enrlCap": 30,
+          "enrolled": 30,
+          "remarks": "FOL",
+          "meetings": [
+            {
+              "day": "W",
+              "time": "1000 - 1200",
+              "room": null
+            }
+          ],
+          "instructor": "MANLULO, ANNA CARINA GARCIA"
+        }
+      ]
+    }
+  },
+  "1033958270": {
+    "id_no": "12206466",
+    "courses": [],
+    "sections": {
+      "CSOPESY": [
+        103
+      ]
+    },
+    "previous_data": {
+      "CSOPESY:sections": [
+        {
+          "classNbr": 103,
+          "course": "CSOPESY",
+          "section": "S15",
+          "enrlCap": 43,
+          "enrolled": 4,
+          "remarks": "HYB",
+          "meetings": [
+            {
+              "day": "W",
+              "time": "0915 - 1045",
+              "room": null
+            },
+            {
+              "day": "S",
+              "time": "0915 - 1045",
+              "room": "GK202"
+            }
+          ],
+          "instructor": "MANTUA, JONATHAN CADELIÑA"
+        }
+      ]
+    }
+  },
+  "1079032344": {
+    "id_no": "",
+    "courses": [],
+    "sections": {
+      "GELITPH": [
+        862
+      ]
+    },
+    "previous_data": {}
+  },
+  "5437429985": {
+    "id_no": "",
+    "courses": [
+      "3759"
+    ],
+    "sections": {
+      "LCFAITH": [
+        3759
+      ]
+    },
+    "previous_data": {}
+  },
+  "-4793785614": {
+    "id_no": "12207543",
+    "courses": [],
+    "sections": {
+      "STCLOUD": [
+        3347
+      ],
+      "CSOPESY": [
+        100
+      ],
+      "LCASEAN": [
+        323
+      ]
+    },
+    "previous_data": {
+      "LCASEAN:sections": [
+        {
+          "classNbr": 323,
+          "course": "LCASEAN",
+          "section": "Z34",
+          "enrlCap": 30,
+          "enrolled": 30,
+          "remarks": "HYB",
+          "meetings": [
+            {
+              "day": "T",
+              "time": "1245 - 1415",
+              "room": null
+            },
+            {
+              "day": "F",
+              "time": "1245 - 1415",
+              "room": "LS208"
+            }
+          ],
+          "instructor": "BUSTAMANTE, DIONESSA L."
+        }
+      ],
+      "CSOPESY:sections": [
+        {
+          "classNbr": 100,
+          "course": "CSOPESY",
+          "section": "S13",
+          "enrlCap": 43,
+          "enrolled": 29,
+          "remarks": "HYB",
+          "meetings": [
+            {
+              "day": "T",
+              "time": "0915 - 1045",
+              "room": null
+            },
+            {
+              "day": "F",
+              "time": "0915 - 1045",
+              "room": "GK201"
+            }
+          ],
+          "instructor": "MANTUA, JONATHAN CADELIÑA"
+        }
+      ],
+      "STCLOUD:sections": [
+        {
+          "classNbr": 3347,
+          "course": "STCLOUD",
+          "section": "S14",
+          "enrlCap": 43,
+          "enrolled": 43,
+          "remarks": "HYB",
+          "meetings": [
+            {
+              "day": "M",
+              "time": "1245 - 1415",
+              "room": null
+            },
+            {
+              "day": "H",
+              "time": "1245 - 1415",
+              "room": "GK304B"
+            }
+          ],
+          "instructor": "FLORES, FRITZ KEVIN SALVADOR"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "6312846885": {
+    "id_no": "12295069",
+    "courses": [],
+    "sections": {},
+    "previous_data": {}
+  },
+  "8058290031": {
+    "id_no": "12209082",
+    "courses": [
+      "ACYITM2"
+    ],
+    "sections": {
+      "STCLOUD": [
+        3347
+      ],
+      "CSOPESY": [
+        100
+      ],
+      "ACCCOB2": [
+        760
+      ]
+    },
+    "previous_data": {
+      "ACYITM2": [
+        {
+          "classNbr": 2524,
+          "course": "ACYITM2",
+          "section": "K31",
+          "enrlCap": 32,
+          "enrolled": 32,
+          "remarks": "HYB",
+          "meetings": [
+            {
+              "day": "M",
+              "time": "1800 - 2115",
+              "room": "VL406"
+            },
+            {
+              "day": "H",
+              "time": "1800 - 2115",
+              "room": null
+            }
+          ],
+          "instructor": "RETARDO, JOHN CHRISTOPHER RODIL"
+        },
+        {
+          "classNbr": 2523,
+          "course": "ACYITM2",
+          "section": "K32",
+          "enrlCap": 32,
+          "enrolled": 32,
+          "remarks": "HYB",
+          "meetings": [
+            {
+              "day": "M",
+              "time": "0730 - 1045",
+              "room": "VL306"
+            },
+            {
+              "day": "H",
+              "time": "0730 - 1045",
+              "room": null
+            }
+          ],
+          "instructor": "MAICO, ANTONIO JR. VALIDA"
+        },
+        {
+          "classNbr": 2521,
+          "course": "ACYITM2",
+          "section": "K34",
+          "enrlCap": 32,
+          "enrolled": 32,
+          "remarks": "HYB",
+          "meetings": [
+            {
+              "day": "M",
+              "time": "1800 - 2115",
+              "room": "AG911"
+            },
+            {
+              "day": "H",
+              "time": "1800 - 2115",
+              "room": null
+            }
+          ]
+        }
+      ],
+      "STCLOUD:sections": [
+        {
+          "classNbr": 3347,
+          "course": "STCLOUD",
+          "section": "S14",
+          "enrlCap": 45,
+          "enrolled": 45,
+          "remarks": "HYB",
+          "meetings": [
+            {
+              "day": "M",
+              "time": "1245 - 1415",
+              "room": null
+            },
+            {
+              "day": "H",
+              "time": "1245 - 1415",
+              "room": "GK304B"
+            }
+          ],
+          "instructor": "FLORES, FRITZ KEVIN SALVADOR"
+        }
+      ],
+      "CSOPESY:sections": [
+        {
+          "classNbr": 100,
+          "course": "CSOPESY",
+          "section": "S13",
+          "enrlCap": 45,
+          "enrolled": 45,
+          "remarks": "HYB",
+          "meetings": [
+            {
+              "day": "T",
+              "time": "0915 - 1045",
+              "room": null
+            },
+            {
+              "day": "F",
+              "time": "0915 - 1045",
+              "room": "GK201"
+            }
+          ],
+          "instructor": "MANTUA, JONATHAN CADELIÑA"
+        }
+      ],
+      "ACCCOB2:sections": [
+        {
+          "classNbr": 760,
+          "course": "ACCCOB2",
+          "section": "V26",
+          "enrlCap": 35,
+          "enrolled": 35,
+          "remarks": "HYB",
+          "meetings": [
+            {
+              "day": "T",
+              "time": "1430 - 1600",
+              "room": "SJ110"
+            },
+            {
+              "day": "F",
+              "time": "1430 - 1600",
+              "room": null
+            }
+          ],
+          "instructor": "LI, MELANIE C."
+        }
+      ]
+    }
+  }
+}
